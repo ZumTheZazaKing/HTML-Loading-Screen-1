@@ -1,5 +1,5 @@
 # HTML-Loading-Screen-1
-A loading screen for games o anything else you can think off
+A loading screen for games or anything else you can think off
 
 You're welcome to download and edit the code to your liking.
 
